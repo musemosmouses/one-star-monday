@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61)
+[![Rank](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/musemosmouses/one-star-monday/rank.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61)
+[![Reward](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/musemosmouses/one-star-monday/reward.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61)
+
 # One Star for Monday
 
 Entry for the make.fun bounty `u-clever-harbor-75-one-star-for-monday-9ead4a61`
